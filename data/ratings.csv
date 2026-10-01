@@ -1,0 +1,55 @@
+user_id,title,rating
+alice,Interstellar,5
+alice,Inception,5
+alice,The Prestige,4
+alice,The Dark Knight,5
+alice,Memento,4
+alice,Dunkirk,3
+bob,Interstellar,5
+bob,The Martian,5
+bob,Gravity,4
+bob,Arrival,5
+bob,Ad Astra,4
+bob,Moon,4
+bob,Contact,4
+carol,The Godfather,5
+carol,The Shawshank Redemption,5
+carol,Pulp Fiction,4
+carol,The Dark Knight,4
+carol,Fight Club,5
+dave,Arrival,5
+dave,Blade Runner 2049,5
+dave,Dune,5
+dave,Ex Machina,4
+dave,Her,4
+dave,Contact,4
+erin,The Matrix,5
+erin,Inception,5
+erin,The Dark Knight,5
+erin,Star Wars: Episode IV,4
+erin,Alien,4
+frank,Interstellar,4
+frank,2001: A Space Odyssey,5
+frank,Gravity,4
+frank,Ad Astra,3
+frank,Moon,5
+frank,Passengers,3
+grace,La La Land,5
+grace,Whiplash,5
+grace,Her,4
+grace,Forrest Gump,4
+henry,Parasite,5
+henry,Get Out,4
+henry,Fight Club,4
+henry,Pulp Fiction,5
+henry,Ex Machina,3
+ivy,Interstellar,5
+ivy,Dune,4
+ivy,Star Wars: Episode IV,5
+ivy,Alien,4
+ivy,The Martian,4
+jake,Inception,5
+jake,The Prestige,5
+jake,Memento,5
+jake,The Dark Knight,4
+jake,Dunkirk,3
